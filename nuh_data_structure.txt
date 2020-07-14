@@ -1,0 +1,13 @@
+eIMR_medication#Patient NRIC,Patient No,Cluster Preferred Name Code,Cluster Preferred Name Description,Case No,Visit No,Date
+Inpatient_clinical_course#Patient NRIC,Patient No,Case No,Visit No,Adm DateTime,Dis DateTime
+NC19P_Patients_AllDiagnosis#Patient NRIC,Patient No,Case No,Visit No,Diagnosis Code,Diagnosis Description,Diagnosis Catalog Code,Date
+NC19P_Patients_AllLabResult#Patient NRIC,Patient No,Case No,Visit No,Test Code,Short Text,Test Result,Result Test Date
+patient_demographics#Patient NRIC,Patient Age,Gender,Race,Deceased Ind,Death Date
+Patients_procedures#Procedure Type,Procedure Desc,Procedure Category,Complication Level (Procedure),Patient NRIC,Case No,Visit No,Adm DateTime
+Patients_surgicals#Patient NRIC,Surgical Type,Surgical Desc,Operation Table Code,Surgical Code,Adm DateTime
+OP_NC19P_Patients_AllDiagnosis#Patient NRIC,Patient No,Case No,Visit No,Diagnosis Code,Diagnosis Description,Diagnosis Catalog Code,Date
+OP_NC19P_Patients_AllLabResult#Patient NRIC,Patient No,Case No,Visit No,Test Code,Short Text,Test Result,Result Test Date
+OP_patient_demographics#Patient NRIC,Patient Age,Gender,Race,Deceased Ind,Death Date
+Outpatient_clinical_course#Patient NRIC,Patient No,Case No,Visit No,Adm DateTime,Dis DateTime
+Outpatient_Medications#Patient NRIC,Patient No,Case No,Visit No,Drug Code,Drug Name,Dispense Dosage Amount,Drug Form Description,Drug Strength Amount,Order Instruction Description
+

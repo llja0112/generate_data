@@ -1,0 +1,34 @@
+Haemoglobin Male,13.5,17.5,g/dL
+Haemoglobin Female,12.0,15.5,g/dL
+White Blood Cell Count,4,10,10^9/L
+Red Blood Cells,3.70,4.80,10^12/L
+MCV,83,98,fL
+MCH,28,34,pg
+MCHC,33,35,g/dL
+Haematocrit,34.3,43,%
+Platelets,150,450,10^9/L
+MPV,7,10,fL
+RDW,12,15,%
+Neutrophils,1.9,6.6,10^9/L
+Lymphocytes,1.1,3.1,10^9/L
+Monocytes,0.2,0.7,10^9/L
+Eosinophils,0,0.6,10^9/L
+Basophils,0,0.1,10^9/L
+C-Reactive Protein,0,5,mg/L
+Procalcitonin,0,0.05,ug/L
+Sodium,135,145,mmol/L
+Postassium,3.5,5,mmol/L
+Creatinine,40,75,umol/L
+Urea,2,6.5,mmol/L
+Calcium,2.15,2.5,mmol/L
+Corrected Calcium,2.15,2.5,mmol/L
+Phosphate,0.8,1.4,mmol/L
+Magnesium,0.7,1,mmol/L
+Albumin,38,48,g/L
+Bilirubin,5,30,umol/L
+ALT,5,40,U/L
+AST,15,40,U/L
+ALP,40,120,U/L
+GGT,10,80,U/L
+LDH,270,550,U/L
+Troponin I,0,18,ng/L
