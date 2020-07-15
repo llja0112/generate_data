@@ -1,0 +1,40 @@
+,Test Name,Min Value,Max Value,Units
+0,Haemoglobin Male,13.5,17.5,g/dL
+1,Haemoglobin Female,12.0,15.5,g/dL
+2,White Blood Cell Count,4,10,10^9/L
+3,Red Blood Cells,3.70,4.80,10^12/L
+4,MCV,83,98,fL
+5,MCH,28,34,pg
+6,MCHC,33,35,g/dL
+7,Haematocrit,34.3,43,%
+8,Platelets,150,450,10^9/L
+9,MPV,7,10,fL
+10,RDW,12,15,%
+11,Neutrophils,1.9,6.6,10^9/L
+12,Lymphocytes,1.1,3.1,10^9/L
+13,Monocytes,0.2,0.7,10^9/L
+14,Eosinophils,0,0.6,10^9/L
+15,Basophils,0,0.1,10^9/L
+16,C-Reactive Protein,0,5,mg/L
+17,Procalcitonin,0,0.05,ug/L
+18,Sodium,135,145,mmol/L
+19,Postassium,3.5,5,mmol/L
+20,Creatinine,40,75,umol/L
+21,Urea,2,6.5,mmol/L
+22,Calcium,2.15,2.5,mmol/L
+23,Corrected Calcium,2.15,2.5,mmol/L
+24,Phosphate,0.8,1.4,mmol/L
+25,Magnesium,0.7,1,mmol/L
+26,Albumin,38,48,g/L
+27,Bilirubin,5,30,umol/L
+28,ALT,5,40,U/L
+29,AST,15,40,U/L
+30,ALP,40,120,U/L
+31,GGT,10,80,U/L
+32,LDH,270,550,U/L
+33,Troponin I,0,18,ng/L
+34,Prothrombin Time,8.4,13,seconds
+35,Activated Partial Thromboplastin Time,23,34.2,seconds
+36,International Normalised Ratio,0.8,1.2,no units
+37,D-Dimer,0,0.4,mg/L
+38,Fibrinogen,2,4,g/L
