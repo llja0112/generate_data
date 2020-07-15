@@ -104,6 +104,9 @@ for i in range(population_size):
         'Acute Respiratory Distress Syndrome': generate_random_number(0,1),
         'Mechanical Ventilation': generate_random_number(0,1),
         'Inotropic Medications': generate_random_number(0,1),
+        'Anticoagulation Medications': generate_random_number(0,1),
+        'Remdesivir': generate_random_number(0,1),
+        'Lopinavir-rotinavir': generate_random_number(0,1),
         'ICU Stay': generate_random_number(0,1),
         'Death': generate_random_number(0,1)
         }, ignore_index=True)
