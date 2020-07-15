@@ -32,3 +32,9 @@ ALP,40,120,U/L
 GGT,10,80,U/L
 LDH,270,550,U/L
 Troponin I,0,18,ng/L
+Prothrombin Time,8.4,13,seconds
+Activated Partial Thromboplastin Time,23,34.2,seconds
+International Normalised Ratio,0.8,1.2,no units
+D-Dimer,0,0.4,mg/L
+Fibrinogen,2,4,g/L
+
